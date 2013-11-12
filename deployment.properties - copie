@@ -1,0 +1,9 @@
+appdir.includes = application,\
+		cgi-bin,\
+		config,\
+		library,\
+		public,\
+		src,\
+		tmp
+
+### Here Is Kévin
