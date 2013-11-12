@@ -28,4 +28,7 @@ $var = 2+2
 =======
 >>>>>>> b29460d79c2bfcddb30f524571a089c4dc84437e
 Je modifie le fichier le 29 ...
+==========
+Kévin - FFox
+==========
 
